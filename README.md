@@ -73,5 +73,5 @@ Pull requests are welcome. Please open an **Issue** to discuss changes before su
 
 ---
 
-**Author:** Your Name  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Author:** Aadyaa Varma  
+**GitHub:** [@aadyaa95](https://github.com/aadyaa95)
